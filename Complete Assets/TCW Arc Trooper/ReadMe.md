@@ -7,4 +7,4 @@ Needed:
 
 
 Additional Notes:
--use RegularInfantry.alo / TrainedInfantry.alo / RegularHero.alo / TrainedHero.alo for the <Land_Model_Anim_Override_Name>
+-use TrainedInfantry.alo / TrainedHero.alo for the <Land_Model_Anim_Override_Name>

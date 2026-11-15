@@ -7,5 +7,5 @@ Needed:
 -various Clone Textures from Fall of the Republic
 
 Additional Notes:
--use RegularInfantry.alo / TrainedInfantry.alo / RegularHero.alo / TrainedHero.alo for the <Land_Model_Anim_Override_Name> on all but Shadowtrooper_Jetpack.alo
--use TrainedJetpack.alo/TrainedJetpackHero.alo for the <Land_Model_Anim_Override_Name> on Shadowtrooper_Jetpack.alo
+-use TrainedInfantry.alo / TrainedHero.alo for the <Land_Model_Anim_Override_Name> on all but Shadowtrooper_Jetpack.alo
+-use TrainedJetpack.alo / TrainedJetpackHero.alo for the <Land_Model_Anim_Override_Name> on Shadowtrooper_Jetpack.alo
