@@ -7,9 +7,9 @@ Each Assets has its own ReadMe with a Description, important Notes and additiona
 
 
 # Terms of Use:
-Free use in any Empire At War: Expanded Submod without further permission.
-If you want to use the models in any other submod reach out to me first.
-Please always credit me, if you plan on publishing a mod including the models.
+- Free use in any Empire At War: Expanded Submod without further permission.
+- Please always credit me, if you plan on publishing a mod including any of the models.
+- If you want to use the models in any other submod reach out to me first.
 
 # To be Credited:
 - Me - Destruction1214
