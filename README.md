@@ -12,8 +12,8 @@ If you want to use the models in any other submod reach out to me first.
 Please always credit me, if you plan on publishing a mod including the models.
 
 # To be Credited:
-Me - Destruction1214
-Empire At War: Expanded Team if used outside of an EAWX Submod
+-Me - Destruction1214
+-Empire At War: Expanded Team if used outside of an EAWX Submod
 
 # How to Contact me:
 -Destruction1214 on steam
