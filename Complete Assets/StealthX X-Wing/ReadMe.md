@@ -5,8 +5,8 @@ The pilots relied on the force, as it was specifically designed to be used by th
 
 
 Needed:
--X-Wing Textures from Thrawns Revenge
+- X-Wing Textures from Thrawns Revenge
 
 
 Additional Notes:
--use X.alo for the <Land_Model_Anim_Override_Name>
+- use X.alo for the <Land_Model_Anim_Override_Name>

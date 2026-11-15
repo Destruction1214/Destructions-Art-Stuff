@@ -4,4 +4,4 @@ Includes Deathclone.
 
 
 Needed:
--Bulwark III Textures from Thrawns Revenge
+- Bulwark III Textures from Thrawns Revenge
