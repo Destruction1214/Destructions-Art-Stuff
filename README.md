@@ -15,7 +15,7 @@ Each Assets has its own ReadMe with a Description, important Notes and additiona
 
 # To be Credited:
 - Me - Destruction1214
-- Empire At War: Expanded Team if used outside of an EAWX Submod
+- Empire At War: Expanded Team on any EAWX Submod
 
 # How to Contact me:
 - Destruction1214 on steam
