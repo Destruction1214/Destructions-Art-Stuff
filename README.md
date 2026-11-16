@@ -1,5 +1,8 @@
 # Destructions Art Stuff
-Mainly Art Assets for EAWX
+Mainly Art Assets for EAWX.
+
+__Do **not** use any of these in a non-EAWX Submod.__
+
 This is a collection of kitbashes and retextures i did. Feel free to use them, aslong as you follow the ToS.
 
 Each Assets has its own ReadMe with a Description, important Notes and additional Notes.
@@ -7,7 +10,6 @@ Each Assets has its own ReadMe with a Description, important Notes and additiona
 
 
 # Terms of Use:
-- __Do **not** use any of these in a non-EAWX Submod.__
 - Free use in any Empire At War: Expanded Submod without further permission.
 - Please always credit me, if you plan on publishing a mod including any of the models.
 
