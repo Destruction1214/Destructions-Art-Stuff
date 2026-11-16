@@ -17,7 +17,9 @@ Each Assets has its own ReadMe with a Description, important Notes and additiona
 
 # How to Contact me:
 - Destruction1214 on steam
-- destruction1214 on Discord (join the Corey / Empire At War Expanded Server - discord.gg/t3WJugG or EAWX Submod Server - https://discord.gg/zQwmDWFe8v)
+- destruction1214 on Discord (join one of the following)
+  - Corey / Empire At War Expanded Server - https://discord.gg/t3WJugG
+  - EAWX Submod Server - https://discord.gg/zQwmDWFe8v
 
 # Credits:
 - Major Credits to the Modellers and Texture People from the Empire at War: Expanded Team. Without their work, all my edits wouldn't have been possible. Creative Ownership of my edits belong to the original creator of the Models and Textures.
